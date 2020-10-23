@@ -1,0 +1,1 @@
+I will be going through the code during the hands-on segment. Please only bring up the code related questions during the hands on segment. 
